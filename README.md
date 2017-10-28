@@ -1,4 +1,4 @@
 # First-Project
 This is my first project on github.
-please tell me if there is any mistake.
+Please tell me if there is any mistake.
 I will be happy .
